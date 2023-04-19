@@ -1,0 +1,9 @@
+services:
+  agenda_db:
+    image: postgres
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_USER: postgres_agenda
+      POSTGRES_PASSWORD: postgres_agenda_password
+      POSTGRES_DB: postgres_agenda
