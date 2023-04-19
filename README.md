@@ -26,7 +26,7 @@ Pour installer le projet, 2 fichiers sont disponibles (un pour Linux, l'autre po
 ```bash
   run.bat
 ```
-## Documenation API
+## Documentation API
 
 ### Utilisateurs
 
