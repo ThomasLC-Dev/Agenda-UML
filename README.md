@@ -258,3 +258,7 @@ Pour installer le projet, 2 fichiers sont disponibles (un pour Linux, l'autre po
 | Paramètre         | Type     | Description                |
 | :--------         | :------- | :------------------------- |
 | `contactDetailId`| `long`   | ID du détail               |
+
+## Diagramme
+
+![Diagramme](https://github.com/ThomasLC-Dev/Agenda-UML/blob/main/diagramme.png?raw=true)
